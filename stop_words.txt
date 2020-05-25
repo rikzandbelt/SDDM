@@ -173,7 +173,7 @@ first
 five
 followed
 following
-follows
+follow
 for
 forever
 former

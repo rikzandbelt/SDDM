@@ -1,0 +1,11 @@
+paper_id,publish_time,title,doi,journal,similarity
+27c7020d5ee9f6d7b2cf92a1990cd56072cc1bc0,2020-05-08,Contact tracing strategies for COVID-19 containment with attenuated physical distancing,10.1101/2020.05.05.20091280,,0.22705968691639225
+654a6305ae55917fb2d3f42a50de64e5db2aaf60,2020-06-05,Capacity of local authority and community on epidemic response in Vietnam: Implication for COVID-19 preparedness,10.1016/j.ssci.2020.104867,Saf Sci,0.16962574056452845
+65dffaf5709ea8622c4d95b459ee8be719b43323,2005-12-31,Forecasting versus projection models in epidemiology: The case of the SARS epidemics,10.1016/j.mehy.2004.09.029,Medical Hypotheses,0.13562534476434637
+2be0c5b0e602c2c6a95fe6d132277d030070bcd9,2020-05-27,Combining PCR and CT testing for COVID,,,0.13508839682932927
+bb19b5b96b95145ef9acb61d25bb5a4eb69beac7,2008-02-05,Respiratory infections and lung function in an Australian Aboriginal community,10.1111/j.1440-1843.2007.01221.x,Respirology,0.12495831004411008
+3a73b880acd8983f87b210ff7fee434fd6ecc8c8,2020-03-04,"Epidemiology and Transmission of COVID-19 in Shenzhen China: Analysis of 391 cases and 1,286 of their close contacts",10.1101/2020.03.03.20028423,,0.12354005269713633
+d707ad5021935bdb7102566353ac3c4e319e91ef,,,,,0.11268929195689895
+36c21939153187db30a91c907b300c37da9577e7,2020-07-05,"Severe Acute Respiratory Syndrome Coronavirus 2 Shedding by Travelers, Vietnam, 2020",10.3201/eid2607.200591,Emerg Infect Dis,0.09469124684100139
+ce707aeb4fe129ed6e3b011c2776f48b9cb200d6,,,,,0.08574725331975548
+ddbc5c8061f5b5f978be98867142c548bec94c9d,1997-03-17,"Community Respiratory Viral Infections in the Immunocompromised Host: Past, Present, and Future Directions",10.1016/s0002-9343(97)80017-4,Am J Med,0.07828893878124989

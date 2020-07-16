@@ -1,11 +1,11 @@
-,paper_id,publish_time,title,doi,journal,similarity
-6,3c8fa182d782957ade3296881a99ac4bfe97cd4c,2014-04-16,Airborne Microorganisms From Livestock Production Systems and Their Relation to Dust,10.1080/10643389.2012.746064,Crit Rev Environ Sci Technol,0.11952679181813866
-4,6cab26f503af61365106a1be2eaeba79f1096381,2020-05-12,Evolving Transmission Network Dynamics of COVID-19 Cluster Infections in South Korea: a descriptive study,10.1101/2020.05.07.20091769,medRxiv : the preprint server for health sciences,0.1083258940226343
-8,faec3c682985aba0b6114b0f9865e66d19c64e17,,,,,0.08273697807551278
-9,36c21939153187db30a91c907b300c37da9577e7,2020-07-05,"Severe Acute Respiratory Syndrome Coronavirus 2 Shedding by Travelers, Vietnam, 2020",10.3201/eid2607.200591,Emerg Infect Dis,0.060134553207317046
-7,12893aa539717df5ccaa94d15d84cb5c057fcdbf,2020-06-03,COVID-19 trend in Bangladesh: deviation from epidemiological model and critical analysis of the possible factors,10.1101/2020.05.31.20118745,,0.05468762096807517
-2,0f52f6ec3e15cc1cc45803c3cb81618d5ee82b7a,2016-12-30,"Coherence of Influenza Surveillance Data across Different Sources and Age Groups, Beijing, China, 2008-2015",10.1371/journal.pone.0169199,PLoS One,0.0533710317739068
-0,79d74f550f25e52d549aa795801c0d8eb8c46dac,,,,,0.04211496738257344
-5,f9cc1ff1f9844f453de804c26bda98ddda1b11eb,2009-06-30,Severe cytomegalovirus (CMV) community-acquired pneumonia (CAP) in a nonimmunocompromised host,10.1016/j.hrtlng.2008.05.008,Heart & Lung,0.03867194636132073
-1,8ceaaa87a76db5f305006a242a690c597b302a5c,2020-04-29,Andronov–Hopf and Neimark–Sacker bifurcations in time-delay differential equations and difference equations with applications to models for diseases and animal populations,10.1186/s13662-020-02646-5,Adv Differ Equ,0.03757924461575364
-3,10b278160952f4290b2b2465b4689de75086afb5,2016-12-01,epiDMS: Data Management and Analytics for Decision-Making From Epidemic Spread Simulation Ensembles,10.1093/infdis/jiw305,J Infect Dis,0.037450934905089626
+paper_id,publish_time,title,doi,journal,similarity
+3c8fa182d782957ade3296881a99ac4bfe97cd4c,2014-04-16,Airborne Microorganisms From Livestock Production Systems and Their Relation to Dust,10.1080/10643389.2012.746064,Crit Rev Environ Sci Technol,0.1206854224779491
+6cab26f503af61365106a1be2eaeba79f1096381,2020-05-12,Evolving Transmission Network Dynamics of COVID-19 Cluster Infections in South Korea: a descriptive study,10.1101/2020.05.07.20091769,medRxiv : the preprint server for health sciences,0.10925852912960747
+faec3c682985aba0b6114b0f9865e66d19c64e17,,,,,0.0807954430250116
+36c21939153187db30a91c907b300c37da9577e7,2020-07-05,"Severe Acute Respiratory Syndrome Coronavirus 2 Shedding by Travelers, Vietnam, 2020",10.3201/eid2607.200591,Emerg Infect Dis,0.0605402359134014
+12893aa539717df5ccaa94d15d84cb5c057fcdbf,2020-06-03,COVID-19 trend in Bangladesh: deviation from epidemiological model and critical analysis of the possible factors,10.1101/2020.05.31.20118745,,0.054653475088306654
+0f52f6ec3e15cc1cc45803c3cb81618d5ee82b7a,2016-12-30,"Coherence of Influenza Surveillance Data across Different Sources and Age Groups, Beijing, China, 2008-2015",10.1371/journal.pone.0169199,PLoS One,0.05221709483415023
+79d74f550f25e52d549aa795801c0d8eb8c46dac,,,,,0.04250770900626558
+f9cc1ff1f9844f453de804c26bda98ddda1b11eb,2009-06-30,Severe cytomegalovirus (CMV) community-acquired pneumonia (CAP) in a nonimmunocompromised host,10.1016/j.hrtlng.2008.05.008,Heart & Lung,0.03903621434679915
+8ceaaa87a76db5f305006a242a690c597b302a5c,2020-04-29,Andronov–Hopf and Neimark–Sacker bifurcations in time-delay differential equations and difference equations with applications to models for diseases and animal populations,10.1186/s13662-020-02646-5,Adv Differ Equ,0.03790675613575219
+10b278160952f4290b2b2465b4689de75086afb5,2016-12-01,epiDMS: Data Management and Analytics for Decision-Making From Epidemic Spread Simulation Ensembles,10.1093/infdis/jiw305,J Infect Dis,0.03703849652429182
